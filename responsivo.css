@@ -198,6 +198,13 @@
         .navMenu{
             display: none;
         }
+      .content h1{
+       font-size: 16px;
+      }
+         #countdown{
+         width: 40%;
+         
+         }
 
    
 }
